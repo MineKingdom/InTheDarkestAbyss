@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 15 }
+  ],
+  "output" : {
+    "item" : "itda_charcoal",
+    "count" : 1
+  },
+  "groups" : [ "stonefurnace", "all" ]
+}

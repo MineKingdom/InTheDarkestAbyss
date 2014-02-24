@@ -1,0 +1,16 @@
+{
+  "itemName" : "itda_charcoal",
+  "rarity" : "Common",
+  "inventoryIcon" : "icon.png",
+  "description" : "It's charcoal. A light residue constituted of carbon and ashes.",
+  "shortdescription" : "Charcoal",
+  
+  "apexDescription" : "A great source of fuel for my spaceship!",
+  "avianDescription" : "It has to be a good fuel.",
+  "floranDescription" : "Floran has burnt wood to produce fuel!",
+  "glitchDescription" : "Statement. It's made by pyrolysis. It will burn well.",
+  "humanDescription" : "Some wood that I have burnt. It will be perfect for my spaceship.",
+  "hylotlDescription" : "Some charcoal. It will be a decent source of fuel.",
+  
+  "fuelAmount" : 3
+}

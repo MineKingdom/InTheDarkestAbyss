@@ -1,0 +1,12 @@
+{
+	"name" : "InTheDarkestAbyss",
+	"version" : "Beta v. Enraged Koala",
+	"path" : "assets",
+	"dependencies" : [],
+	"metadata" : {
+		"displayName" : "In The Darkest Abyss",
+		"author" : "Snaipe",
+		"version" : "1.0",
+		"description" : "... no one can hear your screams."
+	}
+}

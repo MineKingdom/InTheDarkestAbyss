@@ -1,0 +1,41 @@
+{
+  "objectName" : "itda_research_table",
+  "rarity" : "Common",
+  "description" : "A research table. Useful for reverse-engineering things.",
+  "shortdescription" : "Research Table",
+  "race" : "generic",
+  "subtitle" : "Science !",
+  "category" : "crafting",
+  "price" : 300,
+  "objectType" : "container",
+  "printable" : false,
+  "hydrophobic" : false,
+
+  "apexDescription" : "A research table -- I may be able to understand how all the stuff I picked up works.",
+  "avianDescription" : "A research table to understand the fabric of all material beings.",
+  "floranDescription" : "A table to find thingsss. Floran planning ahead.",
+  "glitchDescription" : "Craftsmanship. The research table collects data on material samples.",
+  "humanDescription" : "A research table. Science, yeah!",
+  "hylotlDescription" : "A well-made research table.",
+
+  "inventoryIcon" : "icon.png",
+  "orientations" : [
+    {
+      "dualImage" : "aspect.png:<color>",
+
+      "imagePosition" : [-16, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "recipeGroup" : "itda_research_table",
+  "slotCount" : 2,
+  "uiConfig" : "/interface/objectcrafting/itda_research_table/ui.config",
+  "frameCooldown" : 67,
+  "autoCloseCooldown" : 3600
+}
